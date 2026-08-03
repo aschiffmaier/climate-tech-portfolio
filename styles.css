@@ -279,7 +279,8 @@ box-shadow:var(--shadow-hover);
 
 .cards{
 display:grid;
-gap:24px;
+gap:40px;
+margin-top:42px;
 }
 
 .two-col{grid-template-columns:repeat(2,1fr)}
