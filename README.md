@@ -1,23 +1,20 @@
-# Allison Schiffmaier Portfolio Website
+# Allison Schiffmaier — Climate Tech Portfolio
 
-A static GitHub Pages-ready portfolio website built from Allison Schiffmaier's CV.
+A lightweight, accessible portfolio presenting research and project work across computational cognitive science, climate design, GEO AI, planetary imaging, earthquake machine learning, and human-centered technology.
 
-## Files
+## Featured work
 
-- `index.html` — page structure and content
-- `styles.css` — visual design, layout, responsive styling
-- `script.js` — mobile navigation and footer year
+- Automated detection of new slope streaks on Mars
+- Machine learning for paleoseismic magnitude estimation
+- *Land, Ocean, Space* climate design research
+- Ecoverse sustainable event experience
+- LLM Bioinformatics Interpreter
+- QuakeLab
 
-## How to publish on GitHub Pages
+## Structure
 
-1. Create a new GitHub repository, such as `allison-portfolio`.
-2. Upload these files to the root of the repository.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/root` folder.
-6. Save. GitHub will provide a public website URL.
+- `index.html` — portfolio content and semantic page structure
+- `styles.css` — responsive visual system and accessibility states
+- `script.js` — mobile navigation and automatic footer year
 
-## Easy edits
-
-Update links, project descriptions, or section names directly in `index.html`.
-Update colors in `styles.css` under the `:root` variables.
+The site is deployed through GitHub Pages from the `main` branch.
